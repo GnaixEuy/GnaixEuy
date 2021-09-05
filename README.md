@@ -4,20 +4,19 @@
 
 <br>
 
-```html
 <link rel="stylesheet" href="http://blog.GnaixEuy.cn/wp-content/themes/master-blog/css/APlayer.min.css">
+
 <script src="http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/APlayer.min.js"></script>
+
 <div class="aplayer"
     	data-id="8045906002"
-    	data-fixed="true"
+    	data-fixed="true"
     	data-server="tencent"
     	data-volume="0.7"
     	data-type="playlist"
 		 data-autoplay="true"
-	 >
-	</div>
-	<script src="http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/Meting.min.js"></script>
-```
+	 ></div>
+<script src="http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/Meting.min.js"></script>
 
 
 
