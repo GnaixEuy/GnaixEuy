@@ -5,7 +5,7 @@
 <br>
 
 <!--
-**Charmve/Charmve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GnaixEuy/GnaixEuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +21,42 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/GnaixEuy" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=GnaixEuy&title_color=333&text_color=777" alt="GnaixEuy's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=GnaixEuy&show_icons=true&theme=nightowl" alt="GnaixEuy's Stats" >
   </a>
 </p>
+
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+**Languages and Frameworks**
+
+![C语言](https://img.shields.io/badge/-C语言-blue?style=plastic&logo=C)
+![Java](https://img.shields.io/badge/-Java-gray?style=plastic&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift)
+![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
+
+
+**Tools and Environments**
+
+![macOS](https://img.shields.io/badge/-macOS-gray?style=plastic&logo=macOS)
+![kali](https://img.shields.io/badge/-kalilinux-white?style=plastic&logo=kali-linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
+
+<br>
+
+If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
+
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+---
+
+🚧 **My Todoist Stats: ⬇️** 
 
