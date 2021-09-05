@@ -16,7 +16,7 @@
     	data-type="playlist"
 		 data-autoplay="true"
 	 ></div>
-<script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/Meting.min.js'></script>
+<code><script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/Meting.min.js'></script></code>
 
 
 
