@@ -7,7 +7,7 @@
 <head>
 	<link rel='stylesheet' href='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/css/APlayer.min.css'>
 
-	<script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/APlayer.min.js'></script>
+<script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/APlayer.min.js'></script>
 </head>
 
 
