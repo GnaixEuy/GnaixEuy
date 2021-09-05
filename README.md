@@ -4,6 +4,23 @@
 
 <br>
 
+```html
+<link rel="stylesheet" href="http://blog.GnaixEuy.cn/wp-content/themes/master-blog/css/APlayer.min.css">
+<script src="http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/APlayer.min.js"></script>
+<div class="aplayer"
+    	data-id="8045906002"
+    	data-fixed="true"
+    	data-server="tencent"
+    	data-volume="0.7"
+    	data-type="playlist"
+		 data-autoplay="true"
+	 >
+	</div>
+	<script src="http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/Meting.min.js"></script>
+```
+
+
+
 <!--
 **GnaixEuy/GnaixEuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +51,7 @@ Here are some ideas to get you started:
 **Languages and Frameworks**
 
 ![C语言](https://img.shields.io/badge/-C语言-blue?style=plastic&logo=C)
-![Java](https://img.shields.io/badge/-Java-gray?style=plastic&logo=Java)
+![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift)
 ![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON)
