@@ -4,9 +4,13 @@
 
 <br>
 
-<link rel='stylesheet' href='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/css/APlayer.min.css'>
+<head>
+	<link rel='stylesheet' href='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/css/APlayer.min.css'>
 
-<script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/APlayer.min.js'></script>
+	<script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/APlayer.min.js'></script>
+</head>
+
+
 
 <div class="aplayer"
     	data-id="8045906002"
@@ -16,7 +20,7 @@
     	data-type="playlist"
 		 data-autoplay="true"
 	 ></div>
-<code><script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/Meting.min.js'></script></code>
+<script src='http://blog.GnaixEuy.cn/wp-content/themes/master-blog/js/Meting.min.js'></script>
 
 
 
