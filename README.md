@@ -18,7 +18,7 @@
 
 **🛠  Languages ｜ Frameworks**
 
-![Language C](https://img.shields.io/badge/-Language C-blue?style=plastic&logo=C)
+![Language C](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=C)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift)
