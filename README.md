@@ -4,21 +4,6 @@
 
 <br>
 
-<!--
-**GnaixEuy/GnaixEuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
 <p align="center">
   <a href="https://github.com/GnaixEuy" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=GnaixEuy&show_icons=true&theme=nightowl" alt="GnaixEuy's Stats" >
@@ -31,9 +16,9 @@ Here are some ideas to get you started:
 
 
 
-**Languages and Frameworks**
+**🛠  Languages ｜ Frameworks**
 
-![C语言](https://img.shields.io/badge/-C语言-blue?style=plastic&logo=C)
+![Language C](https://img.shields.io/badge/-Language C-blue?style=plastic&logo=C)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift)
