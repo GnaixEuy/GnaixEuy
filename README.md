@@ -2,9 +2,11 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GnaixEuy"></a>
-</p>
+
+![@:GnaixEuy](https://count.getloli.com/get/@:GnaixEuy)
+  <span>so glad to have your visit</span>
+
+
 <br>
 
 <p align="center">
@@ -46,4 +48,3 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake pl
 
 🚧 **My Todoist Stats: ⬇️** 
 
-<script></script>
