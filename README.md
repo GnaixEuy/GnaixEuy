@@ -2,6 +2,9 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GnaixEuy"></a>
+</p>
 <br>
 
 <p align="center">
@@ -9,7 +12,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GnaixEuy&show_icons=true&theme=nightowl" alt="GnaixEuy's Stats" >
   </a>
 </p>
-
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +27,6 @@
 ![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
-
 
 **Tools and Environments**
 
@@ -45,3 +46,4 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake pl
 
 🚧 **My Todoist Stats: ⬇️** 
 
+<script></script>
