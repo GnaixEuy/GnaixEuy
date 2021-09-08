@@ -38,7 +38,10 @@
 
 <br>
 
+
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
