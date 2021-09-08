@@ -2,10 +2,8 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-
+### so glad to have your visit
 ![@:GnaixEuy](https://count.getloli.com/get/@:GnaixEuy)
-  <span>so glad to have your visit</span>
-
 
 <br>
 
@@ -39,6 +37,9 @@
 ![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
 
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
 
