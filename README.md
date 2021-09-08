@@ -17,7 +17,7 @@
 </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/GnaixEuy/GnaixEuy/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://github.com/GnaixEuy/GnaixEuy.assets/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -45,6 +45,7 @@
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
