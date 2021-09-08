@@ -2,18 +2,20 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="center">
 
-### so glad to have your visit
-![@:GnaixEuy](https://count.getloli.com/get/@:GnaixEuy)
-
-<br>
-
-  <a href="https://github.com/GnaixEuy" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=GnaixEuy&show_icons=true&theme=nightowl" alt="GnaixEuy's Stats" >
-  </a>
+<p>
+  <p align="left">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+  </p>
+  
+  <br>
+  
+  <p align="right">
+    <a href="https://github.com/GnaixEuy" class="rich-diff-level-one">
+      <img src="https://github-readme-stats.vercel.app/api?username=GnaixEuy&show_icons=true&theme=nightowl" alt="GnaixEuy's Stats" >
+    </a>
+  </p>
 </p>
-
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
