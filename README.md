@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="" target="_blank">GnaixEuy<sup><a href="" title="pronounce">`🔊`</a></sup>)</a> 
+## Hi, 👋  I'm <a href="" target="_blank">GnaixEuy<sup><a href="" title="pronounce">`🐱`</a></sup>)</a> 
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -35,7 +35,10 @@
 
 ![macOS](https://img.shields.io/badge/-macOS-gray?style=plastic&logo=macOS)
 ![kali](https://img.shields.io/badge/-kalilinux-white?style=plastic&logo=kali-linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Xcode](https://img.shields.io/badge/-Xcode-40E0D0?style=plastic&logo=Xcode)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ 全家桶-4169E1?style=plastic&logo=IntelliJ Idea)
+![Sublime](https://img.shields.io/badge/-Sublime-gray?style=plastic&logo=sublime text)
+![VS Code](https://img.shields.io/badge/-VS%20Code-00BFFF?style=plastic&logo=visual-studio-code)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
 ![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
 
@@ -45,13 +48,7 @@
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-Java       1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   31.53 % 
-Markdown   53 mins         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-sh         53 mins         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-PHP        20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-XML        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-```
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
