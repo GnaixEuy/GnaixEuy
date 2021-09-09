@@ -36,7 +36,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-gray?style=plastic&logo=macOS)
 ![kali](https://img.shields.io/badge/-kalilinux-white?style=plastic&logo=kali-linux)
 ![Xcode](https://img.shields.io/badge/-Xcode-40E0D0?style=plastic&logo=Xcode)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ 全家桶-4169E1?style=plastic&logo=IntelliJ Idea)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ 全家桶-4169E1?style=plastic&logo=IntelliJIdea)
 ![Sublime](https://img.shields.io/badge/-Sublime-gray?style=plastic&logo=sublime text)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-00BFFF?style=plastic&logo=visual-studio-code)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
