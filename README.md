@@ -10,11 +10,11 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/GnaixEuy" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=GnaixEuy&show_icons=true&theme=nightowl" alt="GnaixEuy's Stats" >
-  </a>
-</p>
+[Github Stats](https://github-readme-stats.vercel.app/api?username=GnaixEuy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![GnaixEuy Overview](https://raw.githubusercontent.com/GnaixEuy/github-stats-transparent/output/generated/overview.svg)
+![GnaixEuy Language](https://raw.githubusercontent.com/GnaixEuy/github-stats-transparent/output/generated/languages.svg)
+
 
 
 <img align="right" alt="GIF" src="https://github.com/GnaixEuy/GnaixEuy/blob/main/README.assets/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
