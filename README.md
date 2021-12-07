@@ -26,7 +26,7 @@
 ![Language C](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=C)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift)
+![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=#F05100)
 ![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
@@ -53,7 +53,7 @@
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
 
-<a href="/html/buymeacoffee.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
