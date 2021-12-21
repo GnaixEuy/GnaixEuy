@@ -26,7 +26,7 @@
 ![Language C](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=C)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=#F05100)
+![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=black)
 ![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
