@@ -27,6 +27,7 @@
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=plastic&logo=Dart)
 ![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
@@ -36,6 +37,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-gray?style=plastic&logo=macOS)
 ![kali](https://img.shields.io/badge/-kalilinux-white?style=plastic&logo=kali-linux)
 ![Xcode](https://img.shields.io/badge/-Xcode-40E0D0?style=plastic&logo=Xcode)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_全家桶-4169E1?style=plastic&logo=IntelliJIdea)
 ![Sublime](https://img.shields.io/badge/-Sublime-gray?style=plastic&logo=sublimetext)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-00BFFF?style=plastic&logo=visual-studio-code)
@@ -48,12 +50,7 @@
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-```text
-sh         1 hr 20 mins    █████████████▒░░░░░░░░░░░   53.73 % 
-XML        42 mins         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Java       23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-HTML       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-```
+
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
