@@ -64,7 +64,7 @@ YAML             17 mins         ▓░░░░░░░░░░░░░░�
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
 
-<a href="https://blog.GnaixEuy.cn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="http://blog.gnaixeuy.cn/wp-content/uploads/2022/04/AliPay.jpg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
