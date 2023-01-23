@@ -52,7 +52,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+sh        22 mins         █████████████████████████   99.99 %
+systemd   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
