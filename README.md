@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GnaixEuy:mikan_flutter?theme=rule34"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GnaixEuy?theme=rule34"></a>
   </p>
 </p>
 
