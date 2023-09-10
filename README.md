@@ -52,9 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   0 secs          ████████████████████████░   96.24 %
-YAML   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
