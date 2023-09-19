@@ -52,7 +52,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   30 mins         ████████████████████░░░░░   80.61 %
+XML    6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
