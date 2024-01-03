@@ -52,11 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Pug              20 mins         ███████████████████████░░   92.01 %
-YAML             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Java             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
