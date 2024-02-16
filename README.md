@@ -52,7 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             2 hrs 6 mins    ████████████████▓░░░░░░░░   67.08 %
+SQL              21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+XML              16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+YAML             16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Env File         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
