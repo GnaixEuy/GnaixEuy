@@ -23,11 +23,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=plastic&logo=Dart)
-
-<!-- ![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON) -->
-
 ![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Vim](https://img.shields.io/badge/-Vim-green?style=plastic&logo=vim)
 ![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
 
 **Tools and Environments**
