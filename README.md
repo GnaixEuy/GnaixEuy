@@ -18,7 +18,7 @@
 
 **🛠 Languages ｜ Frameworks**
 
-![C++](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Vue.Js](https://img.shields.io/badge/-Vue.Js-white?style=plastic&logo=vuedotjs)
