@@ -21,11 +21,13 @@
 ![C++](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Vue.Js](https://img.shields.io/badge/-Vue-white?style=plastic&logo=vuedotjs)
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=plastic&logo=Dart)
 ![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Vim](https://img.shields.io/badge/-Vim-green?style=plastic&logo=vim)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
 
 **Tools and Environments**
@@ -35,9 +37,9 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-40E0D0?style=plastic&logo=Xcode)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_全家桶-4169E1?style=plastic&logo=IntelliJIdea)
-![Sublime](https://img.shields.io/badge/-Sublime-gray?style=plastic&logo=sublimetext)
+![NeoVim](https://img.shields.io/badge/-NeoVim-gray?style=plastic&logo=neovim)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-00BFFF?style=plastic&logo=visual-studio-code)
-![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+![Yarn](https://img.shields.io/badge/-Yarn-gray?style=plastic&logo=yarn)
 
 <br>
 
