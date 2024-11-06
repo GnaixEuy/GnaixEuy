@@ -21,14 +21,14 @@
 ![C++](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Vue.Js](https://img.shields.io/badge/-Vue-white?style=plastic&logo=vuedotjs)
-![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+![Vue.Js](https://img.shields.io/badge/-Vue.Js-white?style=plastic&logo=vuedotjs)
+![Node.JS](https://img.shields.io/badge/-Node.Js-black?style=plastic&logo=Node.js)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=plastic&logo=Dart)
 ![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
 ![Vim](https://img.shields.io/badge/-Vim-green?style=plastic&logo=vim)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
+![docker](https://img.shields.io/badge/-Docker-8fcfd1?style=plastic&&logo=docker)
 
 **Tools and Environments**
 
