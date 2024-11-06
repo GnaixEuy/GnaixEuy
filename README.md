@@ -18,12 +18,15 @@
 
 **🛠 Languages ｜ Frameworks**
 
-![Language C](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=C)
-![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java)
+![C++](https://img.shields.io/badge/-LanguageC-blue?style=plastic&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![swift](https://img.shields.io/badge/-Swift-black?style=plastic&logo=Swift&color=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=plastic&logo=Dart)
-![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON)
+
+<!-- ![Json](https://img.shields.io/badge/-JSON-green?style=plastic&logo=JSON) -->
+
+![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![docker](https://img.shields.io/badge/-docker-8fcfd1?style=plastic&&logo=docker)
 
@@ -37,7 +40,6 @@
 ![Sublime](https://img.shields.io/badge/-Sublime-gray?style=plastic&logo=sublimetext)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-00BFFF?style=plastic&logo=visual-studio-code)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-![MarkDown](https://img.shields.io/badge/-MarkDown-E10098?style=plastic&logo=MarkDown)
 
 <br>
 
