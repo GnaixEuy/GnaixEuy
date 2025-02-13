@@ -59,7 +59,7 @@ Bash       0 secs          ░░░░░░░░░░░░░░░░░�
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈
 
-<a href="http://blog.gnaixeuy.cn/wp-content/uploads/2022/04/AliPay.jpg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://blog.gnaixeuy.cn/donate/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
