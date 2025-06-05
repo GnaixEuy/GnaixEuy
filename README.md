@@ -48,7 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Shell Script   4 mins          ████████▒░░░░░░░░░░░░░░░░   32.92 %
+XML            4 mins          ████████░░░░░░░░░░░░░░░░░   32.29 %
+INI            2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+Other          1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+YAML           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
