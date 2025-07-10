@@ -29,6 +29,7 @@
 ![Vim](https://img.shields.io/badge/-Vim-green?style=plastic&logo=vim)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![docker](https://img.shields.io/badge/-Docker-8fcfd1?style=plastic&&logo=docker)
+![k8s](https://img.shields.io/badge/-kubernetes-white?style=plastic&&logo=kubernetes)
 
 **Tools and Environments**
 
