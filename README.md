@@ -49,8 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   8 hrs 45 mins   ████████████████████████░   95.52 %
-Groff   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Other   8 hrs 34 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
